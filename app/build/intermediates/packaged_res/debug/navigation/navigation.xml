@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/workoutFragment">
+
+    <fragment
+        android:id="@+id/workoutFragment"
+        android:name="com.amnah.sw.ui.fragment.WorkoutFragment"
+        android:label="fragment_workout"
+        tools:layout="@layout/fragment_workout" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.amnah.sw.ui.fragment.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.amnah.sw.ui.fragment.ProfileFragment"
+        android:label="fragment_profiles"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

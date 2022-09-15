@@ -24,7 +24,7 @@ class WorkoutAdapter(
         val currentPosition = workoutList[position]
 
         holder.binding.apply {
-            Glide.with(imageWorkout.context).load(currentPosition.gifUrl).centerCrop()
+            Glide.with(imageWorkout.context).load(currentPosition.gifUrl)
                 .placeholder(R.drawable.ic_workout)
                 .into(imageWorkout)
 

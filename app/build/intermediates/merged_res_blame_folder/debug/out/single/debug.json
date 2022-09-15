@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/navigation_navigation.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/navigation/navigation.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_splash_screen.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/raw_searching.json.flat",
+        "source": "com.amnah.sw.app-main-50:/raw/searching.json"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_ic_workout.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/ic_workout.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/raw_layer.json.flat",
+        "source": "com.amnah.sw.app-main-50:/raw/layer.json"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/layout_fragment_workout.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_fitness_schedule.webp.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/fitness_schedule.webp"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_ic_logo.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_profile.jpg.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/profile.jpg"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_ic_error.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/layout_item_workout.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/layout/item_workout.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/menu_menu.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/menu/menu.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/layout_fragment_profile.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/layout_fragment_search.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_ic_profile.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/raw_load.json.flat",
+        "source": "com.amnah.sw.app-main-50:/raw/load.json"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.amnah.sw.app-main-50:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/raw_error.json.flat",
+        "source": "com.amnah.sw.app-main-50:/raw/error.json"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_item_workout_shape.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/item_workout_shape.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/drawable_ic_search.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.amnah.sw.app-main-50:/xml/data_extraction_rules.xml"
+    }
+]

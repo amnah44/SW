@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.amnah.sw.app-mergeDebugResources-47:/layout/fragment_search.xml",
+        "source": "com.amnah.sw.app-main-50:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-mergeDebugResources-47:/layout/fragment_workout.xml",
+        "source": "com.amnah.sw.app-main-50:/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.amnah.sw.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.amnah.sw.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.amnah.sw.app-mergeDebugResources-47:/layout/item_workout.xml",
+        "source": "com.amnah.sw.app-main-50:/layout/item_workout.xml"
+    }
+]
